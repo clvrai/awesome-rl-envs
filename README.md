@@ -1,10 +1,10 @@
 ## Robotics
+- [IKEA Furniture Assembly](https://clvrai.github.io/furniture/)
+
 - [Meta-World](https://github.com/rlworkgroup/metaworld)
  - Includes 50 diverse robot manipulation tasks on a simulated Sawyer robotic arm. Also includes a variety of evaluation modes varying the number of training and testing tasks.  
 
 - [RLBench](https://sites.google.com/view/rlbench)
-
-- [IKEA Furniture Assembly](https://clvrai.github.io/furniture/)
 
 - [RoboNet](https://www.robonet.wiki)
   - Then also BairPushing dataset (which is a smaller version) https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/video/bair_robot_pushing.py (this is badly documented)
