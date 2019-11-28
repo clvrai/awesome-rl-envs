@@ -7,8 +7,8 @@
 | | [RLBench](https://sites.google.com/view/rlbench) |
 | | [RoboNet](https://www.robonet.wiki) |
 | | [BairPushing Dataset](https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/video/bair_robot_pushing.py) |
-| <img src='media/assistive_gym.jpg' /> | [Assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym) <br> 6 assistive tasks (ScratchItch, BedBathing, Feeding, Drinking, Dressing, and ArmManipulation).4 commercial robots (PR2, Jaco, Baxter, Sawyer). 2 human states: static or active (takes actions according to a separate control policy).Customizable female and male human models. 40 actuated human joints (head, torso, arms, waist, and legs).Realistic human joint limits|
-| <img src='media/play_data_small.gif' /> | [Playroom](https://github.com/google-research/google-research/tree/master/playrooms) |
+| <img src='media/assistive_gym.jpg' width='400'/> | [Assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym) <br> 6 assistive tasks (ScratchItch, BedBathing, Feeding, Drinking, Dressing, and ArmManipulation).4 commercial robots (PR2, Jaco, Baxter, Sawyer). 2 human states: static or active (takes actions according to a separate control policy).Customizable female and male human models. 40 actuated human joints (head, torso, arms, waist, and legs).Realistic human joint limits|
+| <img src='media/play_data_small.gif' width='400'/> | [Playroom](https://github.com/google-research/google-research/tree/master/playrooms) |
 
 ## Games
 - [StarCraft 2](https://github.com/deepmind/pysc2)
