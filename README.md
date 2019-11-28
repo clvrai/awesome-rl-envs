@@ -1,6 +1,6 @@
 ## Robotics
 
-
+| Image | Name |
 | ------------- | ------------- |
 | <img src='media/furn.gif'  width="100" /> | [IKEA Furniture Assembly](https://clvrai.github.io/furniture/) |
 
