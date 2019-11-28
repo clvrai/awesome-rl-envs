@@ -3,26 +3,12 @@
 |  |  |
 | ------------- | ------------- |
 | <img src='media/furn.gif'  width="400" /> | [IKEA Furniture Assembly](https://clvrai.github.io/furniture/) |
-| | [Meta-World](https://github.com/rlworkgroup/metaworld) <br/> Includes 50 diverse robot manipulation tasks on a simulated Sawyer robotic arm. Also includes a variety of evaluation modes varying the number of training and testing tasks.   |
-
-- [RLBench](https://sites.google.com/view/rlbench)
-
-- [RoboNet](https://www.robonet.wiki)
-  - Then also BairPushing dataset (which is a smaller version) https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/video/bair_robot_pushing.py (this is badly documented)
-
-- [Assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym)
-  - physical human-robot interaction and robotic assistance
-  - 6 assistive tasks (ScratchItch, BedBathing, Feeding, Drinking, Dressing, and ArmManipulation).
-  - 4 commercial robots (PR2, Jaco, Baxter, Sawyer).
-  - 2 human states: static or active (takes actions according to a separate control policy).
-  - Customizable female and male human models
-  - 40 actuated human joints (head, torso, arms, waist, and legs)
-  - Realistic human joint limits
-
-- [Playroom](https://github.com/google-research/google-research/tree/master/playrooms)
-  - From the paper Learning Latent Plans from Play 
-
-
+| <img src='media/ml10.gif' width='400' /> | [Meta-World](https://github.com/rlworkgroup/metaworld) <br/> Includes 50 diverse robot manipulation tasks on a simulated Sawyer robotic arm. Also includes a variety of evaluation modes varying the number of training and testing tasks.   |
+| | [RLBench](https://sites.google.com/view/rlbench) |
+| | [RoboNet](https://www.robonet.wiki) |
+| | [BairPushing Dataset](https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/video/bair_robot_pushing.py) |
+| <img src='media/assistive_gym.jpg' /> | [Assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym) <br> 6 assistive tasks (ScratchItch, BedBathing, Feeding, Drinking, Dressing, and ArmManipulation).4 commercial robots (PR2, Jaco, Baxter, Sawyer). 2 human states: static or active (takes actions according to a separate control policy).Customizable female and male human models. 40 actuated human joints (head, torso, arms, waist, and legs).Realistic human joint limits|
+| <img src='media/play_data_small.gif' /> | [Playroom](https://github.com/google-research/google-research/tree/master/playrooms) |
 
 ## Games
 - [StarCraft 2](https://github.com/deepmind/pysc2)
