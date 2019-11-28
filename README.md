@@ -1,5 +1,11 @@
 ## Robotics
-- [IKEA Furniture Assembly](https://clvrai.github.io/furniture/)
+
+
+| ------------- | ------------- |
+| <img src='media/furn.gif'  width="100" /> | [IKEA Furniture Assembly](https://clvrai.github.io/furniture/) |
+
+
+- 
 
 - [Meta-World](https://github.com/rlworkgroup/metaworld)
  - Includes 50 diverse robot manipulation tasks on a simulated Sawyer robotic arm. Also includes a variety of evaluation modes varying the number of training and testing tasks.  
