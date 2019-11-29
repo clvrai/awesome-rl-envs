@@ -121,6 +121,14 @@ time to load.
 | :---: | --- |
 | <img src='media/jericho.png' width=300 /> | [Jericho](https://github.com/microsoft/jericho) |
 
+## Physics Simulators
+| <img width=500 />  | <img width=8000 />  |
+| :---: | --- |
+| | [Mujoco-py](https://github.com/openai/mujoco-py) |
+| | [PyBullet](https://pybullet.org/wordpress/) |
+| | [DART](http://dartsim.github.io) |
+
+
 
 
 ## Misc
