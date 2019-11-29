@@ -1,3 +1,10 @@
+A comprehensive list of environments for reinforcement learning categorized by
+use. If there is an environment you think is missing, please submit a form
+[here](www.google.com).
+
+Each environment has a teaser figure next to it. Note all the teaser figures may take some
+time to load.
+
 ## Robotics
 
 | <img width=8000 />  | <img width=8000 />  |
