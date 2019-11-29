@@ -3,14 +3,14 @@
 | <img width=8000 />  | <img width=8000 />  |
 | :---: | --- |
 | <img src='media/furn.gif' width=300 /> | [IKEA Furniture Assembly](https://clvrai.github.io/furniture/) |
-| <img src='media/ml45-1080p.gif' width=300 /> | [Meta-World](https://github.com/rlworkgroup/metaworld) Includes 50 diverse robot manipulation tasks on a simulated Sawyer robotic arm. Also includes a variety of evaluation modes varying the number of training and testing tasks.   |
-| <img src='media/rl-env.png' width=300 /> | [RLBench](https://sites.google.com/view/rlbench) |
+| <img src='media/doorgym.gif' width=300 /> | [DoorGym](https://github.com/PSVL/DoorGym) |
+| <img src='media/play_data_small.gif' width=300 /> | [Playroom](https://github.com/google-research/google-research/tree/master/playrooms) |
+| <img src='media/surreal.png' width=400 /> | [Robosuite](https://github.com/StanfordVL/robosuite) |
+| <img src='media/roboschool.gif' width=300 /> | [Roboschool](https://openai.com/blog/roboschool/) |
+| <img src='media/ml45-1080p.gif' width=500 /> | [Meta-World](https://github.com/rlworkgroup/metaworld) Includes 50 diverse robot manipulation tasks on a simulated Sawyer robotic arm. Also includes a variety of evaluation modes varying the number of training and testing tasks.   |
+| <img src='media/rl-env.png' width=500 /> | [RLBench](https://sites.google.com/view/rlbench) |
 | <img src='media/frs0_large.gif' width=300 /> | [RoboNet](https://www.robonet.wiki) |
 | <img src='media/assistive_gym.jpg' width=300 /> | [Assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym) 6 assistive tasks (ScratchItch, BedBathing, Feeding, Drinking, Dressing, and ArmManipulation).4 commercial robots (PR2, Jaco, Baxter, Sawyer). 2 human states: static or active (takes actions according to a separate control policy).Customizable female and male human models. 40 actuated human joints (head, torso, arms, waist, and legs).Realistic human joint limits|
-| <img src='media/play_data_small.gif' width=300 /> | [Playroom](https://github.com/google-research/google-research/tree/master/playrooms) |
-| <img src='media/surreal.png' width=300 /> | [Robosuite](https://github.com/StanfordVL/robosuite) |
-| <img src='media/roboschool.gif' width=300 /> | [Roboschool](https://openai.com/blog/roboschool/) |
-| <img src='media/doorgym.gif' width=300 /> | [DoorGym](https://github.com/PSVL/DoorGym) |
 | | [BairPushing Dataset](https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/video/bair_robot_pushing.py) |
 
 ## Games
@@ -31,8 +31,8 @@
 ## Multi-Task Learning
 | <img width=8000 />  | <img width=8000 />  |
 | :---: | --- |
-| <img src='media/ml45-1080p.gif' width=300 /> | [Meta-World](https://github.com/rlworkgroup/metaworld) Includes 50 diverse robot manipulation tasks on a simulated Sawyer robotic arm. Also includes a variety of evaluation modes varying the number of training and testing tasks.   |
-| <img src='media/rl-env.png' width=300 /> | [RLBench](https://sites.google.com/view/rlbench) |
+| <img src='media/ml45-1080p.gif' width=500 /> | [Meta-World](https://github.com/rlworkgroup/metaworld) Includes 50 diverse robot manipulation tasks on a simulated Sawyer robotic arm. Also includes a variety of evaluation modes varying the number of training and testing tasks.   |
+| <img src='media/rl-env.png' width=500 /> | [RLBench](https://sites.google.com/view/rlbench) |
 | <img src='media/play_data_small.gif' width=300 /> | [Playroom](https://github.com/google-research/google-research/tree/master/playrooms) |
 
 ## Suites
@@ -42,8 +42,8 @@
 | <img src='media/gym-mujoco.gif' width=300 /> | [OpenAI Gym Mujoco](https://github.com/openai/gym) | 
 | <img src='media/gym-classic.gif' width=300 /> | [OpenAI Gym Classic](https://github.com/openai/gym) | 
 | <img src='media/gym-atari.gif' width=300 /> | [OpenAI Gym Atari](https://github.com/openai/gym) | 
-| <img src='media/deepmind.png' width=300 /> | [DeepMind Control Suite](https://github.com/openai/gy://github.com/deepmind/dm_control) | 
-| <img src='media/tennis.png' width=300 /> | [Unity Agents](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md) |
+| <img src='media/deepmind.png' width=500 /> | [DeepMind Control Suite](https://github.com/openai/gy://github.com/deepmind/dm_control) | 
+| <img src='media/tennis.png' width=400 /> | [Unity Agents](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md) |
 
 ## Navigation
 | <img width=8000 />  | <img width=8000 />  |
