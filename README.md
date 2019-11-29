@@ -112,6 +112,7 @@ time to load.
 | :---: | --- |
 | <img src='media/mass.png' width=500 /> | [Full Body Muscle Simulator](https://github.com/lsw9021/MASS) |
 | <img src='media/running.gif' width=300 /> | [Osim-rl](http://osim-rl.stanford.edu/) Reinforcement learning environments with musculoskeletal models. Task: learning to walk/move/run using musculoskeletal models. |
+| <img src='media/roboschool.gif' width=300 /> | [Roboschool](https://openai.com/blog/roboschool/) |
 
 
 
