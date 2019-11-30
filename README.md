@@ -5,6 +5,22 @@ use. If there is an environment you think is missing, please submit a form
 Each environment has a teaser figure next to it. Note all the teaser figures may take some
 time to load.
 
+Table of Contents
+=================
+
+      * [Robotics](#robotics)
+      * [Games](#games)
+      * [Multi-Task Learning](#multi-task-learning)
+      * [Suites](#suites)
+      * [Navigation](#navigation)
+      * [Home (More Navigation)](#home-more-navigation)
+      * [Multi-Agent](#multi-agent)
+      * [Safety](#safety)
+      * [Autonomous Driving](#autonomous-driving)
+      * [Humanoid](#humanoid)
+      * [Text](#text)
+      * [Physics Simulators](#physics-simulators)
+      * [Misc](#misc)
 ## Robotics
 
 | <img width=8000 />  | <img width=8000 />  |
