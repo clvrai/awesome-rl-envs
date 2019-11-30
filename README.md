@@ -1,3 +1,6 @@
+RL environment list
+===================
+
 A comprehensive list of environments for reinforcement learning categorized by
 use. If there is an environment you think is missing, please submit a form
 [here](https://github.com/clvrai/awesome-rl-envs/issues).
