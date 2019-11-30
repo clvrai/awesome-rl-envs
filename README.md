@@ -9,7 +9,7 @@ time to load.
 
 | <img width=8000 />  | <img width=8000 />  |
 | :---: | --- |
-| <img src='media/furn_wide.gif' width=300 /> | [IKEA Furniture Assembly](https://clvrai.github.io/furniture/) for testing and accelerating the automation of complex long-horizon manipulation tasks including 80+ furniture models, 3 robots (Baxter, Sawyer, Cursor), and configurable backgrounds and textures. |
+| <img src='media/furn_change.gif' width=300 /> | [IKEA Furniture Assembly](https://clvrai.github.io/furniture/) for testing and accelerating the automation of complex long-horizon manipulation tasks including 80+ furniture models, 3 robots (Baxter, Sawyer, Cursor), and configurable backgrounds and textures. |
 | <img src='media/doorgym.gif' width=300 /> | [DoorGym](https://github.com/PSVL/DoorGym) |
 | <img src='media/play_data_small.gif' width=300 /> | [Playroom](https://github.com/google-research/google-research/tree/master/playrooms) |
 | <img src='media/surreal.png' width=400 /> | [Robosuite](https://github.com/StanfordVL/robosuite) |
