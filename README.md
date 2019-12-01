@@ -50,7 +50,7 @@ Table of Contents
 | <img src='media/phyre.gif' width=300 /> | [PHYRE](https://phyre.ai/) Benchmark for physical reasoning that contains a set of simple classical mechanics puzzles in a 2D enviroment | 
 | <img src='media/marlo.gif' width=300 /> | [MarLÖ : Reinforcement Learning + Minecraft](https://github.com/crowdAI/marLo) A high level API built on top of Project MalmÖ to facilitate Reinforcement Learning experiments with a great degree of generalizability, capable of solving problems in pseudo-random, procedurally changing single and multi agent environments within the world of the mediatic phenomenon game Minecraft. |
 | | [SuperMario](https://github.com/ppaquette/gym-super-mario) |
-| | [Gym Retro](https://github.com/openai/retro) |
+| <img src='media/gym_retro.gif' width=300 /> | [Gym Retro](https://github.com/openai/retro) |
 | <img src='media/coin_runner.gif' width=300 /> | [Coin-Run](https://github.com/openai/coinrun) |
 
 
@@ -97,7 +97,7 @@ Table of Contents
 | <img width=8000 />  | <img width=8000 />  |
 | :---: | --- |
 | <img src='media/robosumo2.gif' width=300 /> | [RoboSumo](https://github.com/openai/robosumo) |
-| | [Multi-agent Particle Environment](https://github.com/openai/multiagent-particle-envs) A simple multi-agent particle world with a continuous observation and discrete action space, along with some basic simulated physics.|
+| <img src='media/multi_agent_particle_envs.gif' width=300 /> | [Multi-agent Particle Environment](https://github.com/openai/multiagent-particle-envs) A simple multi-agent particle world with a continuous observation and discrete action space, along with some basic simulated physics.|
 | <img src='media/hideseek.png' width=300 /> | [OpenAI Multi-Agent Hide and Seek](https://github.com/openai/multi-agent-emergence-environments) |
 | <img src='media/compete.png' width=300 /> | [OpenAI Multi-Agent Competition Environments](https://github.com/openai/multiagent-competition) |
 | <img src='media/mmo.png' width=300 /> | [Massive Multi Agent Game Environment](https://github.com/openai/neural-mmo) |
