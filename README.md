@@ -7,8 +7,8 @@ The list is not entirely comprehensive, so please let us know if there is any en
 
 The initiator for this list is [Andrew Szot](https://www.andrewszot.com/).
 
-## Other collection
-Here are two other websites that list RL environments.
+## Related Collections
+Here are two other resources for RL environments.
 * [Environment Zoo](https://github.com/tshrjn/env-zoo)
 * [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl)
 
@@ -198,12 +198,28 @@ Table of Contents
     </tr>
     <tr>
       <td width='50%' align='center'>
+        <img src='media/mara_2.gif' width=300 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/video/bair_robot_pushing.py'>BairPushing Dataset</a>
+        <a href='https://github.com/AcutronicRobotics/gym-gazebo2'>Gym Gazebo 2</a>
         <ul>
           <li>
-            Dataset of Sawyer pushing objects. 
+            Toolkit for developing and comparing reinforcement learning algorithms using ROS 2 and Gazebo.
+          </li> 
+        </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/robotology/gym-ignition'>Gym Ignition</a>
+        <ul>
+          <li>
+            Provides the capability of creating reproducible robotics environments for reinforcement learning research.
+          </li> 
+          <li>
+            Accelerated and multiprocess execution
           </li> 
         </ul> 
       </td>
@@ -354,6 +370,19 @@ Table of Contents
         </ul> 
       </td>
     </tr>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='media/holodeck.jpg' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://holodeck.cs.byu.edu/'>Holodeck</a>
+        <ul>
+          <li>
+            High Fidelity Simulator for Reinforcement Learning and Robotics Research.
+          </li> 
+        </ul> 
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -416,7 +445,7 @@ Table of Contents
   <tbody>
     <tr>
       <td width='50%' align='center'>
-        <img src='media/gym-atari.gif' width=300 />
+        <img src='media/gym-atari.gif' width=200 />
       </td>
       <td>
         <a href='https://gym.openai.com/envs/#atari'>OpenAI Gym Atari</a> 
@@ -498,6 +527,59 @@ Table of Contents
   </tbody>
 </table>
 
+## Generalization
+<table>
+  <tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='media/cartpole_combined.png' width=300/>
+      </td>
+      <td>
+        <a href='https://github.com/sunblaze-ucb/rl-generalization'>Cartpole Generalization</a>
+        <ul>
+          <li>
+            Test generalization through varying the mass and length of the pole
+            in CartPole. 
+          </li> 
+        </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='media/naturalrl.gif' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/facebookresearch/natural_rl_environment'>Natural RL Environment</a> 
+        <ul>
+          <li>
+            Play common gym tasks with randomly generated backgrounds to test
+            generalization.
+          </li> 
+        </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='media/procgen.png' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/openai/procgen'>Procgen</a> 
+        <ul>
+          <li>
+            16 simple-to-use procedurally-generated environments which provide
+            a direct measure of how quickly a reinforcement learning agent
+            learns generalizable skills
+          </li> 
+          <li>
+             The environments run at high speed (thousands of steps per second)
+             on a single core
+          </li> 
+        </ul> 
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Navigation
 <table>
   <tbody>
@@ -570,6 +652,20 @@ Table of Contents
         </ul> 
             </td>
           </tr>
+      <tr>
+        <td width='50%' align='center'>
+          <img src='media/deeplab.jpeg' width=300 />
+        </td>
+        <td>
+          <a href='https://github.com/deepmind/lab'>DeepMind Lab</a>
+          <ul>
+            <li>
+              Provides a suite of challenging 3D navigation and puzzle-solving
+              tasks for learning agents.
+            </li> 
+          </ul> 
+        </td>
+      </tr>
   </tbody>
 </table>
 
@@ -1035,6 +1131,20 @@ Table of Contents
         <ul>
           <li>
             A learning environment for man-made Interactive Fiction games.
+          </li> 
+        </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/microsoft/TextWorld'>TextWorld</a> 
+        <ul>
+          <li>
+            TextWorld is a sandbox learning environment for the training
+            and evaluation of reinforcement learning (RL) agents on text-based
+            games.
           </li> 
         </ul> 
       </td>
