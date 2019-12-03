@@ -321,6 +321,7 @@ Table of Contents
     </tr>
     <tr>
       <td width='50%' align='center'>
+        <img src='media/gym_retro.gif' width=300 />
       </td>
       <td width='50%'>
         <a href='https://github.com/openai/retro'>Gym Retro</a>
@@ -719,6 +720,7 @@ Table of Contents
     </tr>
     <tr>
       <td width='50%' align='center'>
+        <img src='media/multi_agent_particle_envs.gif' width=300 />
       </td>
       <td width='50%'>
         <a href='https://github.com/openai/multiagent-particle-envs'>Multi-agent Particle Environment</a>
