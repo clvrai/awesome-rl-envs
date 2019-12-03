@@ -9,7 +9,7 @@ Each environment has a teaser figure next to it. Note all the teaser figures may
 
 The initiator for this list is [Andrew Szot](https://www.andrewszot.com/).
 
-## Other collections
+## Other collection
 Here are two other websites that list RL environments.
 * [Environment Zoo](https://github.com/tshrjn/env-zoo)
 * [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl)
