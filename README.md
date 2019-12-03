@@ -19,6 +19,7 @@ Table of Contents
 * [Games](#games)
 * [Multi-Task Learning](#multi-task-learning)
 * [Suites](#suites)
+* [Generalization](#generalization)
 * [Navigation](#navigation)
 * [Home (More Navigation)](#home-more-navigation)
 * [Multi-Agent](#multi-agent)
