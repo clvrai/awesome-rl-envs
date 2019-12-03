@@ -36,14 +36,11 @@ Table of Contents
         <a href='https://clvrai.github.io/furniture/'>IKEA Furniture Assembly</a> 
         <ul>
           <li>
-            Furniture assembly. Complex long-horizon manipulation task.
-          </li> 
-          <li>
-            Diversity. 80+ furniture models, customizable background, lighting
+            Includes 80+ furniture models, customizable background, lighting
             and textures
           </li> 
           <li>
-            Robots. Baxter, Sawyer, and more
+            Features Baxter, Sawyer, and more robots.
           </li> 
         </ul> 
       </td>
