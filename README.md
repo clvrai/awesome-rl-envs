@@ -2,8 +2,9 @@ RL environment list
 ===================
 
 A comprehensive list of environments for reinforcement learning categorized by
-use. If there is an environment you think is missing or a description you would
-like changed, please submit an issue or open a pull request.
+use. 
+If you think an environment is missing from this list, is miscategorized, or needs
+a different description or image please submit an issue or open a pull request. 
 
 Each environment has a teaser figure next to it. Note all the teaser figures may take some
 time to load. Some of the descriptions were taken directly from the project
