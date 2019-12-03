@@ -7,7 +7,7 @@ The list is not entirely comprehensive, so please let us know if there is any en
 
 Each environment has a teaser figure next to it. Note all the teaser figures may take some time to load. Some of the descriptions were taken directly from the project websites.
 
-The main initiator for this list is [Andrew Szot](https://www.andrewszot.com/).
+The initiator for this list is [Andrew Szot](https://www.andrewszot.com/).
 
 
 Table of Contents
