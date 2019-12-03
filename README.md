@@ -5,7 +5,7 @@ This is a list of environments for reinforcement learning categorized by use.
 
 The list is not entirely comprehensive, so please let us know if there is any environment that is missing, miscategorized, or needs a different description or image. Please submit an issue or open a pull request.
 
-The initiator for this list is [Andrew Szot](https://www.andrewszot.com/).
+Started and maintained by [Andrew Szot](https://github.com/ASzot).
 
 ## Related Collections
 Here are two other resources for RL environments.
