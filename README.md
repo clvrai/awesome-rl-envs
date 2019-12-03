@@ -11,7 +11,7 @@ The initiator for this list is [Andrew Szot](https://www.andrewszot.com/).
 
 Here are two other websites that list RL environments.
 * [Environment Zoo](https://github.com/tshrjn/env-zoo)
-* [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl#environments)
+* [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl)
 
 
 Table of Contents
