@@ -51,20 +51,17 @@ Table of Contents
     </tr>
     <tr>
       <td width='50%' align='center'>
-        <img src='media/doorgym.gif' width=300 />
+        <img src='media/surreal.png' width=400 />
       </td>
-      <td width='50%'> <a href='https://github.com/PSVL/DoorGym'>DoorGym</a>
-        <ul>
-          <li>
-            Train a policy to open up various doors. 
-          </li> 
-          <li>
-            Unity integration.
-          </li> 
-          <li>
-            Random door knob generator and door knob dataset.
-          </li> 
-        </ul> 
+      <td width='50%'> <a href='https://github.com/StanfordVL/robosuite'>Robosuite</a>
+      <ul>
+        <li>
+          A set of standard benchmarking tasks in robots. 
+        </li> 
+        <li>
+          Defines a framework for easily creating new tasks and environments.
+        </li> 
+      </ul> 
       </td>
     </tr>
     <tr>
@@ -84,17 +81,20 @@ Table of Contents
     </tr>
     <tr>
       <td width='50%' align='center'>
-        <img src='media/surreal.png' width=400 />
+        <img src='media/doorgym.gif' width=300 />
       </td>
-      <td width='50%'> <a href='https://github.com/StanfordVL/robosuite'>Robosuite</a>
-      <ul>
-        <li>
-          A set of standard benchmarking tasks in robots. 
-        </li> 
-        <li>
-          Defines a framework for easily creating new tasks and environments.
-        </li> 
-      </ul> 
+      <td width='50%'> <a href='https://github.com/PSVL/DoorGym'>DoorGym</a>
+        <ul>
+          <li>
+            Train a policy to open up various doors. 
+          </li> 
+          <li>
+            Unity integration.
+          </li> 
+          <li>
+            Random door knob generator and door knob dataset.
+          </li> 
+        </ul> 
       </td>
     </tr>
     <tr>
@@ -846,13 +846,14 @@ Table of Contents
   <tbody>
   <tr>
     <td width='50%' align='center'>
-      <img src='media/duckietown.png' width=300 />
+      <img src='media/carla.gif' width=300 />
     </td>
     <td width='50%'>
-      <a href='https://github.com/duckietown/gym-duckietown'>DuckieTown</a> 
+      <a href='http://carla.org/'>CARLA</a> 
       <ul>
         <li>
-          Self-driving car simulator for the Duckietown universe.
+          CARLA has been developed from the ground up to support development,
+          training, and validation of autonomous driving systems
         </li> 
       </ul> 
     </td>
@@ -867,6 +868,39 @@ Table of Contents
         <li>
           Open source simulator for autonomous vehicles built on Unreal Engine
           / Unity, from Microsoft AI & Research
+        </li> 
+      </ul> 
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center'>
+      <img src='media/torcs.png' width=300 />
+    </td>
+    <td width='50%'>
+      <a href='https://sourceforge.net/projects/torcs/'>TORCS</a> 
+      <ul>
+        <li>
+          TORCS, The Open Racing Car Simulator is a highly portable multi
+          platform car racing simulation
+        </li> 
+        <li>
+          Many tracks, opponents and cars available
+        </li> 
+        <li>
+          Easy to modify
+        </li> 
+      </ul> 
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center'>
+      <img src='media/duckietown.png' width=300 />
+    </td>
+    <td width='50%'>
+      <a href='https://github.com/duckietown/gym-duckietown'>DuckieTown</a> 
+      <ul>
+        <li>
+          Self-driving car simulator for the Duckietown universe.
         </li> 
       </ul> 
     </td>
@@ -910,40 +944,6 @@ Table of Contents
         <li>
           A plugin for GTAV that transforms it into a vision-based self-driving
           car research environment.
-        </li> 
-      </ul> 
-    </td>
-  </tr>
-  <tr>
-    <td width='50%' align='center'>
-      <img src='media/torcs.png' width=300 />
-    </td>
-    <td width='50%'>
-      <a href='https://sourceforge.net/projects/torcs/'>TORCS</a> 
-      <ul>
-        <li>
-          TORCS, The Open Racing Car Simulator is a highly portable multi
-          platform car racing simulation
-        </li> 
-        <li>
-          Many tracks, opponents and cars available
-        </li> 
-        <li>
-          Easy to modify
-        </li> 
-      </ul> 
-    </td>
-  </tr>
-  <tr>
-    <td width='50%' align='center'>
-      <img src='media/carla.gif' width=300 />
-    </td>
-    <td width='50%'>
-      <a href='http://carla.org/'>CARLA</a> 
-      <ul>
-        <li>
-          CARLA has been developed from the ground up to support development,
-          training, and validation of autonomous driving systems
         </li> 
       </ul> 
     </td>
@@ -1062,30 +1062,10 @@ Table of Contents
 
 
 ## Physics Simulators
-<table>
-  <tbody>
-  <tr>
-    <td width='50%' align='center'>
-    </td>
-    <td width='50%'>
-        <a href='https://github.com/openai/mujoco-py'>Mujoco-py</a>
-    </td>
-  </tr>
-  <tr>
-    <td width='50%' align='center'>
-    </td>
-    <td width='50%'>
-        <a href='https://pybullet.org/wordpress/'>PyBullet</a>
-    </td>
-  </tr>
-  <tr>
-    <td width='50%' align='center'>
-    </td>
-    <td width='50%'>
-        <a href='http://dartsim.github.io'>DART</a>
-    </td>
-  </tr>
-  </tbody>
-</table>
+
+* <a href='https://github.com/openai/mujoco-py'>Mujoco-py</a>
+* <a href='https://pybullet.org/wordpress/'>PyBullet</a>
+* <a href='http://dartsim.github.io'>DART</a>
+* <a href='http://www.coppeliarobotics.com/'>V-REP</a>
 
 
