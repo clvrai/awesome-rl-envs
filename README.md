@@ -5,8 +5,6 @@ This is a list of environments for reinforcement learning categorized by use.
 
 The list is not entirely comprehensive, so please let us know if there is any environment that is missing, miscategorized, or needs a different description or image. Please submit an issue or open a pull request.
 
-Each environment has a teaser figure next to it. Note all the teaser figures may take some time to load. Some of the descriptions were taken directly from the project websites.
-
 The initiator for this list is [Andrew Szot](https://www.andrewszot.com/).
 
 ## Other collection
