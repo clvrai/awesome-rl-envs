@@ -37,8 +37,11 @@ Table of Contents
         <a href='https://clvrai.github.io/furniture/'>IKEA Furniture Assembly</a> 
         <ul>
           <li>
+            Complex long-horizon manipulation tasks.
+          </li> 
+          <li>
             Includes 80+ furniture models, customizable background, lighting
-            and textures
+            and textures.
           </li> 
           <li>
             Features Baxter, Sawyer, and more robots.
@@ -56,7 +59,7 @@ Table of Contents
             Train a policy to open up various doors. 
           </li> 
           <li>
-            Unity integration
+            Unity integration.
           </li> 
           <li>
             Random door knob generator and door knob dataset.
@@ -123,7 +126,7 @@ Table of Contents
         <a href='https://github.com/rlworkgroup/metaworld'>Meta-World</a> 
         <ul>
           <li>
-            50 diverse robot manipulation tasks on a simulated Sawyer robotic arm
+            50 diverse robot manipulation tasks on a simulated Sawyer robotic arm.
           </li> 
           <li>
             Also includes a variety of evaluation modes varying the number of training and testing tasks.   
@@ -160,10 +163,10 @@ Table of Contents
             from robots performing various tasks.
           </li> 
           <li>
-            15 million video frames from 113 unique camera viewpoints
+            15 million video frames from 113 unique camera viewpoints.
           </li> 
           <li>
-            7 robot platforms
+            7 robot platforms.
           </li> 
         </ul> 
       </td>
@@ -217,7 +220,7 @@ Table of Contents
         <ul>
           <li>
             Provides an interface for RL agents to interact with StarCraft 2,
-            getting observations and sending actions
+            getting observations and sending actions.
           </li> 
         </ul> 
       </td>
@@ -273,7 +276,7 @@ Table of Contents
         <a href='https://github.com/minerllabs/minerl'>Minecraft</a> 
         <ul>
           <li>
-            Data API for the MineRLv0 dataset
+            Data API for the MineRLv0 dataset.
           </li> 
           <li>
             Also has minecraft environment simulator with basic built in tasks.
@@ -289,7 +292,7 @@ Table of Contents
         <a href='https://phyre.ai/'>PHYRE</a> 
         <ul>
           <li>
-            Benchmark for physical reasoning that contains a set of simple classical mechanics puzzles in a 2D enviroment 
+            Benchmark for physical reasoning that contains a set of simple classical mechanics puzzles in a 2D enviroment. 
           </li> 
         </ul> 
       </td>
@@ -328,7 +331,7 @@ Table of Contents
         <ul>
           <li>
             Gym Retro lets you turn classic video games into Gym environments
-            for reinforcement learning and comes with integrations for ~1000
+            for reinforcement learning and comes with integrations for ~1000.
             games.
           </li> 
         </ul> 
@@ -362,7 +365,7 @@ Table of Contents
         <a href='https://github.com/rlworkgroup/metaworld'>Meta-World</a> 
         <ul>
           <li>
-            50 diverse robot manipulation tasks on a simulated Sawyer robotic arm
+            50 diverse robot manipulation tasks on a simulated Sawyer robotic arm.
           </li> 
           <li>
             Also includes a variety of evaluation modes varying the number of training and testing tasks.   
@@ -410,6 +413,32 @@ Table of Contents
   <tbody>
     <tr>
       <td width='50%' align='center'>
+        <img src='media/gym-atari.gif' width=300 />
+      </td>
+      <td>
+        <a href='https://gym.openai.com/envs/#atari'>OpenAI Gym Atari</a> 
+        <ul>
+          <li>
+            59 Atari 2600 games.
+          </li> 
+        </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='media/gym-classic.gif' width=300 />
+      </td>
+      <td>
+        <a href='https://gym.openai.com/envs/#classic_control'>OpenAI Gym Classic</a> 
+        <ul>
+          <li>
+            Control theory problems from the classic RL literature.
+          </li> 
+        </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
         <img src='media/gym.gif' width=300 />
       </td>
       <td>
@@ -430,32 +459,6 @@ Table of Contents
         <ul>
           <li>
             Continuous control tasks, running in a fast physics simulator.
-          </li> 
-        </ul> 
-      </td>
-    </tr>
-    <tr>
-      <td width='50%' align='center'>
-        <img src='media/gym-classic.gif' width=300 />
-      </td>
-      <td>
-        <a href='https://gym.openai.com/envs/#classic_control'>OpenAI Gym Classic</a> 
-        <ul>
-          <li>
-            Control theory problems from the classic RL literature.
-          </li> 
-        </ul> 
-      </td>
-    </tr>
-    <tr>
-      <td width='50%' align='center'>
-        <img src='media/gym-atari.gif' width=300 />
-      </td>
-      <td>
-        <a href='https://gym.openai.com/envs/#atari'>OpenAI Gym Atari</a> 
-        <ul>
-          <li>
-            Reach high scores in Atari 2600 games.
           </li> 
         </ul> 
       </td>
