@@ -339,18 +339,6 @@ Environments are listed alphabetically.
     </tr>
     <tr>
       <td width='50%' align='center'>
-      </td>
-      <td width='50%'>
-        <a href='https://github.com/TorchCraft/TorchCraft'>TorchCraft</a>
-        <ul>
-          <li>
-            Python interface for playing "StarCraft: Brood War".
-          </li> 
-        </ul> 
-      </td>
-    </tr>
-    <tr>
-      <td width='50%' align='center'>
         <img src='media/pysc2.jpeg' width=300 />
       </td>
       <td width='50%'>
@@ -371,6 +359,18 @@ Environments are listed alphabetically.
         <ul>
           <li>
             Gym wrapper for the Super Mario levels. Includes many levels. 
+          </li> 
+        </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/TorchCraft/TorchCraft'>TorchCraft</a>
+        <ul>
+          <li>
+            Python interface for playing "StarCraft: Brood War".
           </li> 
         </ul> 
       </td>
