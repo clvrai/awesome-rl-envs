@@ -1176,6 +1176,18 @@ Environments are listed alphabetically.
         </ul> 
     </td>
   </tr>
+  <tr>
+    <td width='50%' align='center'>
+    </td>
+    <td width='50%'>
+        <a href='https://github.com/google-research/recsim'>RecSim</a> 
+        <ul>
+          <li>
+              A Configurable Recommender Systems Simulation Platform from Google.
+          </li> 
+        </ul> 
+    </td>
+  </tr>
   </tbody>
 </table>
 
