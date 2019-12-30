@@ -7,7 +7,7 @@ fix this problem. Environments are categorized by usage and include both an
 image and a description. From this, you can easily find which
 benchmarks may be best for your project. Furthermore, many environments in this
 list pose challenges current RL cannot solve. Get inspired
-to solve open problems in RL by discovering environments in this list.
+to solve open problems in RL by discovering challenging benchmarks. 
 
 Started and maintained by [Andrew Szot](https://github.com/ASzot).
 
