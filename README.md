@@ -230,6 +230,24 @@ Environments are listed alphabetically.
       </ul> 
       </td>
     </tr>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='media/monkeys.gif' width=300 />
+      </td>
+      <td width='50%'> <a href='https://github.com/leggedrobotics/raisimLib'>RAISIM</a>
+      <ul>
+        <li>
+          Raisim is a physics engine for rigid-body dynamics simulation.
+          Although it is a general physics engine, it has been mainly
+          used/tested for robotics and reinforcement learning so far. It
+          features an efficient implementation of recursive algorithms for
+          articulated system dynamics (Recursive Newton-Euler and Composite
+          Rigid Body Algorithm). RaisimLib is an exported cmake package of
+          raisim.
+        </li> 
+      </ul> 
+      </td>
+    </tr>
   </tbody>
 </table>
 
