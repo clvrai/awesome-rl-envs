@@ -188,26 +188,6 @@ Environments are listed alphabetically.
     </tr>
     <tr>
       <td width='50%' align='center'>
-        <img src='media/frs0_large.gif' width=300 />
-      </td>
-      <td width='50%'>
-        <a href='https://www.robonet.wiki'>RoboNet</a>
-        <ul>
-          <li>
-            A dataset for sharing robot experience including actions and frames
-            from robots performing various tasks.
-          </li> 
-          <li>
-            15 million video frames from 113 unique camera viewpoints.
-          </li> 
-          <li>
-            7 robot platforms.
-          </li> 
-        </ul> 
-      </td>
-    </tr>
-    <tr>
-      <td width='50%' align='center'>
         <img src='media/surreal.png' width=400 />
       </td>
       <td width='50%'> <a href='https://github.com/StanfordVL/robosuite'>Robosuite</a>
