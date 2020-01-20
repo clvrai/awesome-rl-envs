@@ -1,18 +1,12 @@
 RL environment list
 ===================
 
-With so many environments released for benchmarking reinforcement learning (RL), it
-is hard to keep track and make sense of them all. This list is an attempt to
-fix this problem. Environments are categorized by usage and include both an
-image and a description. From this, you can easily find which
-benchmarks may be best for your project. Furthermore, many environments in this
-list pose challenges current RL cannot solve. Get inspired
-to solve open problems in RL by discovering challenging benchmarks. 
+A comprehensive list of categorized reinforcement learning environments. 
 
 Started and maintained by [Andrew Szot](https://github.com/ASzot).
 
 ## Related Collections
-Here are two other resources for RL environments.
+Two other resources for RL environments.
 * [Environment Zoo](https://github.com/tshrjn/env-zoo)
 * [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl)
 
@@ -159,6 +153,24 @@ Environments are listed alphabetically.
     </tr>
     <tr>
       <td width='50%' align='center'>
+        <img src='media/monkeys.gif' width=300 />
+      </td>
+      <td width='50%'> <a href='https://github.com/leggedrobotics/raisimLib'>RAISIM</a>
+      <ul>
+        <li>
+          Raisim is a physics engine for rigid-body dynamics simulation.
+          Although it is a general physics engine, it has been mainly
+          used/tested for robotics and reinforcement learning so far. It
+          features an efficient implementation of recursive algorithms for
+          articulated system dynamics (Recursive Newton-Euler and Composite
+          Rigid Body Algorithm). RaisimLib is an exported cmake package of
+          raisim.
+        </li> 
+      </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
         <img src='media/rl-env.png' width=500 />
       </td>
       <td width='50%'>
@@ -226,24 +238,6 @@ Environments are listed alphabetically.
         </li> 
         <li>
           Easy to train multiple agents at once.
-        </li> 
-      </ul> 
-      </td>
-    </tr>
-    <tr>
-      <td width='50%' align='center'>
-        <img src='media/monkeys.gif' width=300 />
-      </td>
-      <td width='50%'> <a href='https://github.com/leggedrobotics/raisimLib'>RAISIM</a>
-      <ul>
-        <li>
-          Raisim is a physics engine for rigid-body dynamics simulation.
-          Although it is a general physics engine, it has been mainly
-          used/tested for robotics and reinforcement learning so far. It
-          features an efficient implementation of recursive algorithms for
-          articulated system dynamics (Recursive Newton-Euler and Composite
-          Rigid Body Algorithm). RaisimLib is an exported cmake package of
-          raisim.
         </li> 
       </ul> 
       </td>
