@@ -6,7 +6,7 @@ A comprehensive list of categorized reinforcement learning environments.
 Started and maintained by [Andrew Szot](https://github.com/ASzot).
 
 ## Related Collections
-Two other resources for RL environments.
+Two other resources for RL environments:
 * [Environment Zoo](https://github.com/tshrjn/env-zoo)
 * [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl)
 
