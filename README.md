@@ -1191,7 +1191,7 @@ Environments are listed alphabetically.
 * <a href='http://dartsim.github.io'>DART</a>
 * <a href='http://www.coppeliarobotics.com/'>V-REP</a>
 
-
+## Disclaimer
 
 The list is not comprehensive, so please let us know if there is any environment that is missing, miscategorized, or needs a different description or image. Please submit an issue or open a pull request.
 
