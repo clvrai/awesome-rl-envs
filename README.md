@@ -248,6 +248,18 @@ Environments are listed alphabetically.
       </ul> 
       </td>
     </tr>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='media/rex.png' width=300 />
+      </td>
+      <td width='50%'> <a href='https://github.com/leggedrobotics/raisimLib'>RAISIM</a>
+      <ul>
+        <li>
+          OpenAI Gym environments for an open-source quadruped robot (SpotMicro)
+        </li> 
+      </ul> 
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -427,6 +439,17 @@ Environments are listed alphabetically.
             Also includes a variety of evaluation modes varying the number of training and testing tasks.   
           </li> 
         </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
+      </td>
+      <td width='50%'> <a href='https://github.com/vitchyr/multiworld?'>Multiworld</a>
+        <ul>
+          <li>
+            Variety of Gym GoalEnvs that return the goal in the observation. 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
