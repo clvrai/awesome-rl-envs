@@ -1050,6 +1050,20 @@ Environments are listed alphabetically.
   </tr>
   <tr>
     <td width='50%' align='center'>
+      <img src='media/highway.gif' width=300 />
+    </td>
+    <td width='50%'>
+      <a href='https://github.com/eleurent/highway-env'>Highway-Env</a> 
+      <ul>
+        <li>
+          A collection of environments for autonomous driving and tactical
+          decision-making tasks
+        </li> 
+      </ul> 
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center'>
       <img src='media/lgsvl.png' width=300 />
     </td>
     <td width='50%'>
