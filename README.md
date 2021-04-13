@@ -226,7 +226,7 @@ Environments are listed alphabetically.
       <td width='50%' align='center'>
         <img src='media/rex.png' width=300 />
       </td>
-      <td width='50%'> <a href='https://github.com/leggedrobotics/raisimLib'>Rex-Gym</a>
+      <td width='50%'> <a href='https://github.com/nicrusso7/rex-gym'>Rex-Gym</a>
       <ul>
         <li>
           OpenAI Gym environments for an open-source quadruped robot (SpotMicro)
