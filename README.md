@@ -1064,13 +1064,16 @@ Environments are listed alphabetically.
   </tr>
   <tr>
     <td width='50%' align='center'>
-      <img src='media/lgsvl.png' width=300 />
+      <img src='media/svl.gif' width=300 />
     </td>
     <td width='50%'>
-      <a href='https://www.lgsvlsimulator.com/'>LGSVL</a> 
+      <a href='https://www.svlsimulator.com/'>SVL Simulator</a> 
       <ul>
         <li>
           Simulation software to accelerate safe autonomous vehicle development
+        </li> 
+        <li>
+          Custom environment to support openai gym interface
         </li> 
       </ul> 
     </td>
