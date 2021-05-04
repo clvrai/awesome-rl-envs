@@ -1,7 +1,7 @@
 RL environment list
 ===================
 
-A comprehensive list of categorized reinforcement learning environments. 
+A comprehensive list of categorized reinforcement learning environments.
 
 Started and maintained by [Andrew Szot](https://github.com/ASzot).
 
@@ -37,21 +37,21 @@ Environments are listed alphabetically.
         <img src='media/assistive_gym.jpg' width=600 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/Healthcare-Robotics/assistive-gym'> Assistive-gym </a> 
+        <a href='https://github.com/Healthcare-Robotics/assistive-gym'> Assistive-gym </a>
         <ul>
           <li>
-           6 assistive tasks (ScratchItch, BedBathing, Feeding, Drinking, Dressing, and ArmManipulation).   
-          </li> 
+           6 assistive tasks (ScratchItch, BedBathing, Feeding, Drinking, Dressing, and ArmManipulation).
+          </li>
           <li>
-           4 commercial robots (PR2, Jaco, Baxter, Sawyer).   
-          </li> 
+           4 commercial robots (PR2, Jaco, Baxter, Sawyer).
+          </li>
           <li>
-            2 human states: static or active (takes actions according to a separate control policy).  
-          </li> 
+            2 human states: static or active (takes actions according to a separate control policy).
+          </li>
           <li>
            Customizable female and male human models. 40 actuated human joints (head, torso, arms, waist, and legs).Realistic human joint limit.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -61,15 +61,15 @@ Environments are listed alphabetically.
       <td width='50%'> <a href='https://github.com/PSVL/DoorGym'>DoorGym</a>
         <ul>
           <li>
-            Train a policy to open up various doors. 
-          </li> 
+            Train a policy to open up various doors.
+          </li>
           <li>
             Unity integration.
-          </li> 
+          </li>
           <li>
             Random door knob generator and door knob dataset.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -81,8 +81,8 @@ Environments are listed alphabetically.
         <ul>
           <li>
             Toolkit for developing and comparing reinforcement learning algorithms using ROS 2 and Gazebo.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -93,11 +93,11 @@ Environments are listed alphabetically.
         <ul>
           <li>
             Provides the capability of creating reproducible robotics environments for reinforcement learning research.
-          </li> 
+          </li>
           <li>
             Accelerated and multiprocess execution
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -105,19 +105,19 @@ Environments are listed alphabetically.
         <img src='media/furn.gif' width=300 />
       </td>
       <td width='50%'>
-        <a href='https://clvrai.github.io/furniture/'>IKEA Furniture Assembly</a> 
+        <a href='https://clvrai.github.io/furniture/'>IKEA Furniture Assembly</a>
         <ul>
           <li>
             Complex long-horizon manipulation tasks.
-          </li> 
+          </li>
           <li>
             Includes 80+ furniture models, customizable background, lighting
             and textures.
-          </li> 
+          </li>
           <li>
             Features Baxter, Sawyer, and more robots.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -125,15 +125,15 @@ Environments are listed alphabetically.
         <img src='media/ml45-1080p.gif' width=500 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/rlworkgroup/metaworld'>Meta-World</a> 
+        <a href='https://github.com/rlworkgroup/metaworld'>Meta-World</a>
         <ul>
           <li>
             50 diverse robot manipulation tasks on a simulated Sawyer robotic arm.
-          </li> 
+          </li>
           <li>
-            Also includes a variety of evaluation modes varying the number of training and testing tasks.   
-          </li> 
-        </ul> 
+            Also includes a variety of evaluation modes varying the number of training and testing tasks.
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -143,12 +143,12 @@ Environments are listed alphabetically.
       <td width='50%'> <a href='https://github.com/google-research/google-research/tree/master/playrooms'>Playroom</a>
         <ul>
           <li>
-            Variety of tasks in desk scenario. 
-          </li> 
+            Variety of tasks in desk scenario.
+          </li>
           <li>
-            Evaluation code and play dataset will be included soon. 
-          </li> 
-        </ul> 
+            Evaluation code and play dataset will be included soon.
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -165,8 +165,8 @@ Environments are listed alphabetically.
           articulated system dynamics (Recursive Newton-Euler and Composite
           Rigid Body Algorithm). RaisimLib is an exported cmake package of
           raisim.
-        </li> 
-      </ul> 
+        </li>
+      </ul>
       </td>
     </tr>
     <tr>
@@ -178,12 +178,12 @@ Environments are listed alphabetically.
         <ul>
           <li>
             100 unique, hand designed tasks.
-          </li> 
+          </li>
           <li>
             Vision-guided manipulation, imitation learning, multi-task
-            learning, geometric computer vision and few-shot learning. 
-          </li> 
-        </ul> 
+            learning, geometric computer vision and few-shot learning.
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -193,12 +193,12 @@ Environments are listed alphabetically.
       <td width='50%'> <a href='https://github.com/StanfordVL/robosuite'>Robosuite</a>
       <ul>
         <li>
-          A set of standard benchmarking tasks in robots. 
-        </li> 
+          A set of standard benchmarking tasks in robots.
+        </li>
         <li>
           Defines a framework for easily creating new tasks and environments.
-        </li> 
-      </ul> 
+        </li>
+      </ul>
       </td>
     </tr>
     <tr>
@@ -208,18 +208,18 @@ Environments are listed alphabetically.
       <td width='50%'> <a href='https://openai.com/blog/roboschool/'>Roboschool</a>
       <ul>
         <li>
-          Control robots in simulation. 
-        </li> 
+          Control robots in simulation.
+        </li>
         <li>
           Can use other physics engines other than MuJoCo.
-        </li> 
+        </li>
         <li>
           Alternative to standard OpenAI Gym mujoco environments.
-        </li> 
+        </li>
         <li>
           Easy to train multiple agents at once.
-        </li> 
-      </ul> 
+        </li>
+      </ul>
       </td>
     </tr>
     <tr>
@@ -230,8 +230,8 @@ Environments are listed alphabetically.
       <ul>
         <li>
           OpenAI Gym environments for an open-source quadruped robot (SpotMicro)
-        </li> 
-      </ul> 
+        </li>
+      </ul>
       </td>
     </tr>
   </tbody>
@@ -245,13 +245,13 @@ Environments are listed alphabetically.
         <img src='media/coin_runner.gif' width=300 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/openai/coinrun'>Coin-Run</a> 
+        <a href='https://github.com/openai/coinrun'>Coin-Run</a>
         <ul>
           <li>
              Training environment which provides a metric for an agent’s
              ability to transfer its experience to novel situations.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -265,8 +265,8 @@ Environments are listed alphabetically.
             Gym Retro lets you turn classic video games into Gym environments
             for reinforcement learning and comes with integrations for ~1000.
             games.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -278,8 +278,8 @@ Environments are listed alphabetically.
         <ul>
           <li>
             High Fidelity Simulator for Reinforcement Learning and Robotics Research.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -287,12 +287,12 @@ Environments are listed alphabetically.
         <img src='media/marlo.gif' width=300 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/crowdAI/marLo'>MarLÖ : Reinforcement Learning + Minecraft</a> 
+        <a href='https://github.com/crowdAI/marLo'>MarLÖ : Reinforcement Learning + Minecraft</a>
         <ul>
           <li>
-           A high level API built on top of Project MalmÖ to facilitate Reinforcement Learning experiments with a great degree of generalizability, capable of solving problems in pseudo-random, procedurally changing single and multi agent environments within the world of the mediatic phenomenon game Minecraft.   
-          </li> 
-        </ul> 
+           A high level API built on top of Project MalmÖ to facilitate Reinforcement Learning experiments with a great degree of generalizability, capable of solving problems in pseudo-random, procedurally changing single and multi agent environments within the world of the mediatic phenomenon game Minecraft.
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -300,15 +300,15 @@ Environments are listed alphabetically.
         <img src='media/mine.gif' width=300 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/minerllabs/minerl'>Minecraft</a> 
+        <a href='https://github.com/minerllabs/minerl'>Minecraft</a>
         <ul>
           <li>
             Data API for the MineRLv0 dataset.
-          </li> 
+          </li>
           <li>
             Also has minecraft environment simulator with basic built in tasks.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -316,12 +316,12 @@ Environments are listed alphabetically.
         <img src='media/phyre.gif' width=300 />
       </td>
       <td width='50%'>
-        <a href='https://phyre.ai/'>PHYRE</a> 
+        <a href='https://phyre.ai/'>PHYRE</a>
         <ul>
           <li>
-            Benchmark for physical reasoning that contains a set of simple classical mechanics puzzles in a 2D enviroment. 
-          </li> 
-        </ul> 
+            Benchmark for physical reasoning that contains a set of simple classical mechanics puzzles in a 2D enviroment.
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -329,16 +329,16 @@ Environments are listed alphabetically.
         <img src='media/fifa.gif' width=300 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/google-research/football'>Soccer Simulator</a> 
+        <a href='https://github.com/google-research/football'>Soccer Simulator</a>
         <ul>
           <li>
-            Can control one or all football players at a time. 
-          </li> 
+            Can control one or all football players at a time.
+          </li>
           <li>
             Includes football academy for diverse scenarios such as various
             passing scenarios.
-          </li>   
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -351,8 +351,8 @@ Environments are listed alphabetically.
           <li>
             Provides an interface for RL agents to interact with StarCraft 2,
             getting observations and sending actions.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -362,9 +362,9 @@ Environments are listed alphabetically.
         <a href='https://github.com/ppaquette/gym-super-mario'>SuperMario</a>
         <ul>
           <li>
-            Gym wrapper for the Super Mario levels. Includes many levels. 
-          </li> 
-        </ul> 
+            Gym wrapper for the Super Mario levels. Includes many levels.
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -375,8 +375,8 @@ Environments are listed alphabetically.
         <ul>
           <li>
             Python interface for playing "StarCraft: Brood War".
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -384,13 +384,13 @@ Environments are listed alphabetically.
         <img src='media/vizdom.gif' width=300 height=100 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/mwydmuch/ViZDoom'>VizDoom</a> 
+        <a href='https://github.com/mwydmuch/ViZDoom'>VizDoom</a>
         <ul>
           <li>
             ViZDoom allows developing AI bots that play Doom using only the
             visual information (the screen buffer).
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
   </tbody>
@@ -404,15 +404,15 @@ Environments are listed alphabetically.
         <img src='media/ml45-1080p.gif' width=500 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/rlworkgroup/metaworld'>Meta-World</a> 
+        <a href='https://github.com/rlworkgroup/metaworld'>Meta-World</a>
         <ul>
           <li>
             50 diverse robot manipulation tasks on a simulated Sawyer robotic arm.
-          </li> 
+          </li>
           <li>
-            Also includes a variety of evaluation modes varying the number of training and testing tasks.   
-          </li> 
-        </ul> 
+            Also includes a variety of evaluation modes varying the number of training and testing tasks.
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -421,7 +421,7 @@ Environments are listed alphabetically.
       <td width='50%'> <a href='https://github.com/vitchyr/multiworld?'>Multiworld</a>
         <ul>
           <li>
-            Variety of Gym GoalEnvs that return the goal in the observation. 
+            Variety of Gym GoalEnvs that return the goal in the observation.
           </li>
         </ul>
       </td>
@@ -433,12 +433,12 @@ Environments are listed alphabetically.
       <td width='50%'> <a href='https://github.com/google-research/google-research/tree/master/playrooms'>Playroom</a>
         <ul>
           <li>
-            Variety of tasks in desk scenario. 
-          </li> 
+            Variety of tasks in desk scenario.
+          </li>
           <li>
-            Evaluation code and play dataset will be included soon. 
-          </li> 
-        </ul> 
+            Evaluation code and play dataset will be included soon.
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -450,12 +450,12 @@ Environments are listed alphabetically.
         <ul>
           <li>
             100 unique, hand designed tasks.
-          </li> 
+          </li>
           <li>
             Vision-guided manipulation, imitation learning, multi-task
-            learning, geometric computer vision and few-shot learning. 
-          </li> 
-        </ul> 
+            learning, geometric computer vision and few-shot learning.
+          </li>
+        </ul>
       </td>
     </tr>
   </tbody>
@@ -469,12 +469,12 @@ Environments are listed alphabetically.
         <img src='media/deepmind.png' width=500 />
       </td>
       <td>
-        <a href='https://github.com/deepmind/dm_control'>DeepMind Control Suite</a> 
+        <a href='https://github.com/deepmind/dm_control'>DeepMind Control Suite</a>
         <ul>
           <li>
             A variety of benchmarking continuous control tasks.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -482,12 +482,12 @@ Environments are listed alphabetically.
         <img src='media/gym-atari.gif' width=200 />
       </td>
       <td>
-        <a href='https://gym.openai.com/envs/#atari'>OpenAI Gym Atari</a> 
+        <a href='https://gym.openai.com/envs/#atari'>OpenAI Gym Atari</a>
         <ul>
           <li>
             59 Atari 2600 games.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -495,12 +495,12 @@ Environments are listed alphabetically.
         <img src='media/gym-classic.gif' width=300 />
       </td>
       <td>
-        <a href='https://gym.openai.com/envs/#classic_control'>OpenAI Gym Classic</a> 
+        <a href='https://gym.openai.com/envs/#classic_control'>OpenAI Gym Classic</a>
         <ul>
           <li>
             Control theory problems from the classic RL literature.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -508,12 +508,12 @@ Environments are listed alphabetically.
       <img src='media/gym-mujoco.gif' width=300 />
       </td>
       <td>
-        <a href='https://gym.openai.com/envs/#mujoco'>OpenAI Gym Mujoco</a> 
+        <a href='https://gym.openai.com/envs/#mujoco'>OpenAI Gym Mujoco</a>
         <ul>
           <li>
             Continuous control tasks, running in a fast physics simulator.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -521,12 +521,12 @@ Environments are listed alphabetically.
         <img src='media/gym.gif' width=300 />
       </td>
       <td>
-        <a href='https://gym.openai.com/envs/#robotics'>OpenAI Gym Robotics</a> 
+        <a href='https://gym.openai.com/envs/#robotics'>OpenAI Gym Robotics</a>
         <ul>
           <li>
             Simulated goal-based tasks for the Fetch and ShadowHand robots.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -534,15 +534,15 @@ Environments are listed alphabetically.
         <img src='media/tennis.png' width=400 />
       </td>
       <td>
-        <a href='https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md'>Unity Agents</a> 
+        <a href='https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md'>Unity Agents</a>
         <ul>
           <li>
-            A number of control tasks in the Unity engine. 
-          </li> 
+            A number of control tasks in the Unity engine.
+          </li>
           <li>
             Includes example of parallel learning.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
   </tbody>
@@ -560,9 +560,9 @@ Environments are listed alphabetically.
         <ul>
           <li>
             Test generalization through varying the mass and length of the pole
-            in CartPole. 
-          </li> 
-        </ul> 
+            in CartPole.
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -570,13 +570,13 @@ Environments are listed alphabetically.
         <img src='media/naturalrl.gif' width=300 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/facebookresearch/natural_rl_environment'>Natural RL Environment</a> 
+        <a href='https://github.com/facebookresearch/natural_rl_environment'>Natural RL Environment</a>
         <ul>
           <li>
             Play common gym tasks with randomly generated backgrounds to test
             generalization.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -584,21 +584,36 @@ Environments are listed alphabetically.
         <img src='media/procgen.png' width=250 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/openai/procgen'>Procgen</a> 
+        <a href='https://github.com/openai/procgen'>Procgen</a>
         <ul>
           <li>
             16 simple-to-use procedurally-generated environments which provide
             a direct measure of how quickly a reinforcement learning agent
-            learns generalizable skills
-          </li> 
+            learns generalizable skills.
+          </li>
           <li>
              The environments run at high speed (thousands of steps per second)
-             on a single core
-          </li> 
-        </ul> 
+             on a single core.
+          </li>
+        </ul>
       </td>
     </tr>
   </tbody>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='media/animalai.gif' width=250 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/beyretb/AnimalAI-Olympics'>Animal-AI Testbed</a>
+        <ul>
+          <li>
+            900 tasks reflecting various cognitive skills of animals.
+          </li>
+          <li>
+            Powered by Unity ml-agent.
+        </ul>
+      </td>
+    </tr>
 </table>
 
 ## Navigation
@@ -614,8 +629,8 @@ Environments are listed alphabetically.
             <li>
               Provides a suite of challenging 3D navigation and puzzle-solving
               tasks for learning agents.
-            </li> 
-          </ul> 
+            </li>
+          </ul>
         </td>
       </tr>
       <tr>
@@ -623,18 +638,18 @@ Environments are listed alphabetically.
         <img src='media/gym-maze.gif' width=300 />
         </td>
         <td>
-        <a href='https://github.com/MattChanTK/gym-maze'>gym-maze</a> 
+        <a href='https://github.com/MattChanTK/gym-maze'>gym-maze</a>
         <ul>
           <li>
             A simple 2D maze environment where an agent (blue dot) finds its
             way from the top left corner (blue square) to the goal at the
-            bottom right corner (red square). 
-          </li> 
+            bottom right corner (red square).
+          </li>
           <li>
             The objective is to find the
             shortest path from the start to the goal.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
         </td>
       </tr>
         <tr>
@@ -642,16 +657,16 @@ Environments are listed alphabetically.
         <img src='media/multi-room.gif' width=300 />
           </td>
           <td>
-        <a href='https://github.com/maximecb/gym-minigrid'>gym-minigrid</a> 
+        <a href='https://github.com/maximecb/gym-minigrid'>gym-minigrid</a>
         <ul>
           <li>
             Lightweight and fast grid world implementation with various
             included tasks.
-          </li> 
+          </li>
           <li>
             Easily modifable and extendable.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
           </td>
         </tr>
           <tr>
@@ -659,16 +674,16 @@ Environments are listed alphabetically.
         <img src='media/miniworld.jpg' width=300 />
             </td>
             <td>
-        <a href='https://github.com/maximecb/gym-miniworld'>gym-miniworld</a> 
+        <a href='https://github.com/maximecb/gym-miniworld'>gym-miniworld</a>
         <ul>
           <li>
             Minimalistic 3D interior simulator as an alternative to VizDoom or
-            DMLab. 
-          </li> 
+            DMLab.
+          </li>
           <li>
             Easily modifable and extendable.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
             </td>
           </tr>
       <tr>
@@ -676,15 +691,15 @@ Environments are listed alphabetically.
         <img src='media/obstacle.png' width=300 />
       </td>
       <td>
-        <a href='https://github.com/Unity-Technologies/obstacle-tower-challenge'>Obstacle Tower</a> 
+        <a href='https://github.com/Unity-Technologies/obstacle-tower-challenge'>Obstacle Tower</a>
         <ul>
           <li>
-           Traverse through procedurally generated floors which get progressively harder.   
-          </li> 
+           Traverse through procedurally generated floors which get progressively harder.
+          </li>
           <li>
-           Challenging visual inputs.    
-          </li> 
-        </ul> 
+           Challenging visual inputs.
+          </li>
+        </ul>
       </td>
     </tr>
   </tbody>
@@ -699,12 +714,12 @@ Environments are listed alphabetically.
       <img src='media/thor.gif' width=300 />
     </td>
     <td>
-      <a href='https://ai2thor.allenai.org/'>AI2THOR</a> 
+      <a href='https://ai2thor.allenai.org/'>AI2THOR</a>
       <ul>
         <li>
-          An Interactive 3D Environment for Visual AI 
-        </li> 
-      </ul> 
+          An Interactive 3D Environment for Visual AI
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -712,12 +727,12 @@ Environments are listed alphabetically.
       <img src='media/gibson.gif' width=300 />
     </td>
     <td>
-      <a href='http://gibsonenv.stanford.edu/'>Gibson</a> 
+      <a href='http://gibsonenv.stanford.edu/'>Gibson</a>
       <ul>
         <li>
-          3d navigation in indoor scans 
-        </li> 
-      </ul> 
+          3d navigation in indoor scans
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -725,14 +740,14 @@ Environments are listed alphabetically.
       <img src='media/habitat_compressed.gif' width=300 />
     </td>
     <td>
-      <a href='https://aihabitat.org'>Habitat</a> 
+      <a href='https://aihabitat.org'>Habitat</a>
       <ul>
         <li>
           AI Habitat enables training of embodied AI agents (virtual robots)
           in a highly photorealistic & efficient 3D simulator, before
           transferring the learned skills to reality
-        </li> 
-      </ul> 
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -740,12 +755,12 @@ Environments are listed alphabetically.
       <img src='media/home-platform.png' width=300 />
     </td>
     <td>
-      <a href='https://github.com/HoME-Platform/home-platform'>HoME: a Household Multimodal Environment</a> 
+      <a href='https://github.com/HoME-Platform/home-platform'>HoME: a Household Multimodal Environment</a>
       <ul>
         <li>
-          A platform for agents to learn from vision, audio, semantics, physics, and interaction with objects and other agents, all within a realistic context.      
-        </li> 
-      </ul> 
+          A platform for agents to learn from vision, audio, semantics, physics, and interaction with objects and other agents, all within a realistic context.
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -753,45 +768,45 @@ Environments are listed alphabetically.
       <img src='media/house3d.gif' width=300 />
     </td>
     <td>
-      <a href='https://github.com/facebookresearch/house3d'>House3D</a> 
+      <a href='https://github.com/facebookresearch/house3d'>House3D</a>
       <ul>
         <li>
           House3D is a virtual 3D environment which consists of thousands of
           indoor scenes equipped with a diverse set of scene types, layouts
           and objects sourced from the SUNCG dataset
-        </li> 
+        </li>
         <li>
           It consists of over 45k indoor 3D scenes, ranging from studios to
           two-storied houses with swimming pools and fitness rooms
-        </li> 
+        </li>
         <li>
           All 3D objects are fully annotated with category labels
-        </li> 
+        </li>
         <li>
           Multiple observation modalities
-        </li> 
+        </li>
         <li>
           Fast rendering at thousands of frames per second
-        </li> 
-      </ul> 
+        </li>
+      </ul>
     </td>
   <tr>
     <td width='50%' align='center'>
       <img src='media/minos.png' width=300 />
     </td>
     <td>
-      <a href='https://minosworld.github.io/'>MINOS</a> 
+      <a href='https://minosworld.github.io/'>MINOS</a>
       <ul>
         <li>
           MINOS is a simulator designed to support the development of
           multisensory models for goal-directed navigation in complex indoor
           environments.
-        </li> 
+        </li>
         <li>
           MINOS leverages large datasets of complex 3D environments and
           supports flexible configuration of multimodal sensor suites.
-        </li> 
-      </ul> 
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -799,12 +814,12 @@ Environments are listed alphabetically.
       <img src='media/isaac.jpg' width=300 />
     </td>
     <td>
-      <a href='https://developer.nvidia.com/Isaac-sdk'>Nvidia ISAAC simulator</a> 
+      <a href='https://developer.nvidia.com/Isaac-sdk'>Nvidia ISAAC simulator</a>
       <ul>
         <li>
-          A virtual robotics laboratory and a high-fidelity 3D world simulator 
-        </li> 
-      </ul> 
+          A virtual robotics laboratory and a high-fidelity 3D world simulator
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -812,12 +827,12 @@ Environments are listed alphabetically.
       <img src='media/virtualhome.png' width=300 />
     </td>
     <td>
-      <a href='http://virtual-home.org/'>VirtualHome</a> 
+      <a href='http://virtual-home.org/'>VirtualHome</a>
       <ul>
         <li>
           A 3D environment allowing to simulate and generate videos of activities as sequences of actions and interaction.
-        </li> 
-      </ul> 
+        </li>
+      </ul>
     </td>
   </tr>
   </tbody>
@@ -832,7 +847,7 @@ Environments are listed alphabetically.
         <img src='media/mmo.png' width=500 />
             </td>
             <td>
-        <a href='https://github.com/openai/neural-mmo'>Massive Multi Agent Game Environment</a> 
+        <a href='https://github.com/openai/neural-mmo'>Massive Multi Agent Game Environment</a>
         <ul>
           <li>
             We consider MMORPGs (Massive
@@ -841,8 +856,8 @@ Environments are listed alphabetically.
             thousands of agents per persistent world, diverse skilling systems,
             global economies, complex emergent social structures, and ad-hoc
             high stakes single and team based conflict.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
             </td>
           </tr>
     <tr>
@@ -854,8 +869,8 @@ Environments are listed alphabetically.
         <ul>
           <li>
          A simple multi-agent particle world with a continuous observation and discrete action space, along with some basic simulated physics
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -863,12 +878,12 @@ Environments are listed alphabetically.
         <img src='media/compete.png' width=300 />
           </td>
           <td>
-        <a href='https://github.com/openai/multiagent-competition'>OpenAI Multi-Agent Competition Environments</a> 
+        <a href='https://github.com/openai/multiagent-competition'>OpenAI Multi-Agent Competition Environments</a>
         <ul>
           <li>
             Contains many continous control, multi-agent tasks.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
           </td>
         </tr>
       <tr>
@@ -876,15 +891,15 @@ Environments are listed alphabetically.
         <img src='media/hideseek.png' width=300 />
         </td>
         <td>
-        <a href='https://github.com/openai/multi-agent-emergence-environments'>OpenAI Multi-Agent Hide and Seek</a> 
+        <a href='https://github.com/openai/multi-agent-emergence-environments'>OpenAI Multi-Agent Hide and Seek</a>
         <ul>
           <li>
-            A team of seekers and a team of hiders. 
-          </li> 
+            A team of seekers and a team of hiders.
+          </li>
           <li>
             Both teams can use tools to achieve their objective.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
         </td>
       </tr>
     <tr>
@@ -892,12 +907,12 @@ Environments are listed alphabetically.
         <img src='media/robosumo2.gif' width=300 />
       </td>
       <td>
-        <a href='https://github.com/openai/robosumo'>RoboSumo</a> 
+        <a href='https://github.com/openai/robosumo'>RoboSumo</a>
         <ul>
           <li>
             Sumo-wrestling between two ants using continuous control.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
   </tbody>
@@ -907,29 +922,29 @@ Environments are listed alphabetically.
 ## Safety
 <table>
   <tbody>
-    
+
    <tr>
       <td width='50%' align='center'>
         <img src='media/assistive_gym.jpg' width=600 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/Healthcare-Robotics/assistive-gym'> Assistive-gym </a> 
+        <a href='https://github.com/Healthcare-Robotics/assistive-gym'> Assistive-gym </a>
         <ul>
           <li>
-           6 assistive tasks (ScratchItch, BedBathing, Feeding, Drinking, Dressing, and ArmManipulation).   
-          </li> 
+           6 assistive tasks (ScratchItch, BedBathing, Feeding, Drinking, Dressing, and ArmManipulation).
+          </li>
           <li>
-           4 commercial robots (PR2, Jaco, Baxter, Sawyer).   
-          </li> 
+           4 commercial robots (PR2, Jaco, Baxter, Sawyer).
+          </li>
           <li>
-            2 human states: static or active (takes actions according to a separate control policy).  
-          </li> 
+            2 human states: static or active (takes actions according to a separate control policy).
+          </li>
           <li>
            Customizable female and male human models. 40 actuated human joints (head, torso, arms, waist, and legs).Realistic human joint limit.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
-    </tr>     
+    </tr>
       <tr>
         <td width='50%' align='center'>
         </td>
@@ -939,8 +954,8 @@ Environments are listed alphabetically.
           <li>
             This is a suite of reinforcement learning environments illustrating
             various safety properties of intelligent agents.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
         </td>
       </tr>
     <tr>
@@ -948,12 +963,12 @@ Environments are listed alphabetically.
         <img src='media/safety_gym.png' width=300 />
       </td>
       <td>
-        <a href='https://github.com/openai/safety-gym'>Safety Gym</a> 
+        <a href='https://github.com/openai/safety-gym'>Safety Gym</a>
         <ul>
           <li>
             Tools for accelerating safe exploration research.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
   </tbody>
@@ -969,13 +984,13 @@ Environments are listed alphabetically.
       <img src='media/airsim.png' width=300 />
     </td>
     <td width='50%'>
-      <a href='https://github.com/Microsoft/AirSim'>Autonomous Vehicle Simulator</a> 
+      <a href='https://github.com/Microsoft/AirSim'>Autonomous Vehicle Simulator</a>
       <ul>
         <li>
           Open source simulator for autonomous vehicles built on Unreal Engine
           / Unity, from Microsoft AI & Research
-        </li> 
-      </ul> 
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -983,13 +998,13 @@ Environments are listed alphabetically.
       <img src='media/carla.gif' width=300 />
     </td>
     <td width='50%'>
-      <a href='http://carla.org/'>CARLA</a> 
+      <a href='http://carla.org/'>CARLA</a>
       <ul>
         <li>
           CARLA has been developed from the ground up to support development,
           training, and validation of autonomous driving systems
-        </li> 
-      </ul> 
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -997,12 +1012,12 @@ Environments are listed alphabetically.
       <img src='media/deepdrive.gif' width=300 />
     </td>
     <td width='50%'>
-      <a href='https://github.com/deepdrive/deepdrive'>DeepDrive Self Driving Car Simulator</a> 
+      <a href='https://github.com/deepdrive/deepdrive'>DeepDrive Self Driving Car Simulator</a>
       <ul>
         <li>
-          End-to-end simulation for self-driving cars 
-        </li> 
-      </ul> 
+          End-to-end simulation for self-driving cars
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -1010,15 +1025,15 @@ Environments are listed alphabetically.
       <img src='media/streetlearn.gif' width=300 />
     </td>
     <td width='50%'>
-      <a href='https://github.com/deepmind/streetlearn'>DeepMind StreetLearn</a> 
+      <a href='https://github.com/deepmind/streetlearn'>DeepMind StreetLearn</a>
       <ul>
         <li>
           A C++/Python implementation of the StreetLearn environment based on
           images from Street View, as well as a TensorFlow implementation of
           goal-driven navigation agents solving the task published in “Learning
           to Navigate in Cities Without a Map”, NeurIPS 2018
-        </li> 
-      </ul> 
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -1026,13 +1041,13 @@ Environments are listed alphabetically.
       <img src='media/gta_drive.jpeg' width=300 />
     </td>
     <td width='50%'>
-      <a href='https://github.com/aitorzip/DeepGTAV'>DeepGTAV v2</a> 
+      <a href='https://github.com/aitorzip/DeepGTAV'>DeepGTAV v2</a>
       <ul>
         <li>
           A plugin for GTAV that transforms it into a vision-based self-driving
           car research environment.
-        </li> 
-      </ul> 
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -1040,12 +1055,12 @@ Environments are listed alphabetically.
       <img src='media/duckietown.png' width=300 />
     </td>
     <td width='50%'>
-      <a href='https://github.com/duckietown/gym-duckietown'>DuckieTown</a> 
+      <a href='https://github.com/duckietown/gym-duckietown'>DuckieTown</a>
       <ul>
         <li>
           Self-driving car simulator for the Duckietown universe.
-        </li> 
-      </ul> 
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -1053,13 +1068,13 @@ Environments are listed alphabetically.
       <img src='media/highway.gif' width=300 />
     </td>
     <td width='50%'>
-      <a href='https://github.com/eleurent/highway-env'>Highway-Env</a> 
+      <a href='https://github.com/eleurent/highway-env'>Highway-Env</a>
       <ul>
         <li>
           A collection of environments for autonomous driving and tactical
           decision-making tasks
-        </li> 
-      </ul> 
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -1067,15 +1082,15 @@ Environments are listed alphabetically.
       <img src='media/svl.gif' width=300 />
     </td>
     <td width='50%'>
-      <a href='https://www.svlsimulator.com/'>SVL Simulator</a> 
+      <a href='https://www.svlsimulator.com/'>SVL Simulator</a>
       <ul>
         <li>
           Simulation software to accelerate safe autonomous vehicle development
-        </li> 
+        </li>
         <li>
           Custom environment to support openai gym interface
-        </li> 
-      </ul> 
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -1083,19 +1098,19 @@ Environments are listed alphabetically.
       <img src='media/torcs.png' width=300 />
     </td>
     <td width='50%'>
-      <a href='https://sourceforge.net/projects/torcs/'>TORCS</a> 
+      <a href='https://sourceforge.net/projects/torcs/'>TORCS</a>
       <ul>
         <li>
           TORCS, The Open Racing Car Simulator is a highly portable multi
           platform car racing simulation
-        </li> 
+        </li>
         <li>
           Many tracks, opponents and cars available
-        </li> 
+        </li>
         <li>
           Easy to modify
-        </li> 
-      </ul> 
+        </li>
+      </ul>
     </td>
   </tr>
   </tbody>
@@ -1110,12 +1125,12 @@ Environments are listed alphabetically.
         <img src='media/mass.png' width=500 />
       </td>
       <td>
-        <a href='https://github.com/lsw9021/MASS'>Full Body Muscle Simulator</a> 
+        <a href='https://github.com/lsw9021/MASS'>Full Body Muscle Simulator</a>
         <ul>
           <li>
             A basic simulation and control for full-body Musculoskeletal system
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
       <tr>
@@ -1123,12 +1138,12 @@ Environments are listed alphabetically.
         <img src='media/running.gif' width=300 />
         </td>
         <td>
-        <a href='http://osim-rl.stanford.edu/'>Osim-rl</a> 
+        <a href='http://osim-rl.stanford.edu/'>Osim-rl</a>
         <ul>
           <li>
-            Reinforcement learning environments with musculoskeletal models. Task: learning to walk/move/run using musculoskeletal models. 
-          </li> 
-        </ul> 
+            Reinforcement learning environments with musculoskeletal models. Task: learning to walk/move/run using musculoskeletal models.
+          </li>
+        </ul>
         </td>
       </tr>
     <tr>
@@ -1138,18 +1153,18 @@ Environments are listed alphabetically.
       <td width='50%'> <a href='https://openai.com/blog/roboschool/'>Roboschool</a>
       <ul>
         <li>
-          Control robots in simulation. 
-        </li> 
+          Control robots in simulation.
+        </li>
         <li>
           Can use other physics engines other than MuJoCo.
-        </li> 
+        </li>
         <li>
           Alternative to standard OpenAI Gym mujoco environments.
-        </li> 
+        </li>
         <li>
           Easy to train multiple agents at once.
-        </li> 
-      </ul> 
+        </li>
+      </ul>
       </td>
     </tr>
   </tbody>
@@ -1165,26 +1180,26 @@ Environments are listed alphabetically.
         <img src='media/jericho.png' width=300 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/microsoft/jericho'>Jericho</a> 
+        <a href='https://github.com/microsoft/jericho'>Jericho</a>
         <ul>
           <li>
             A learning environment for man-made Interactive Fiction games.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td width='50%' align='center'>
       </td>
       <td width='50%'>
-        <a href='https://github.com/microsoft/TextWorld'>TextWorld</a> 
+        <a href='https://github.com/microsoft/TextWorld'>TextWorld</a>
         <ul>
           <li>
             TextWorld is a sandbox learning environment for the training
             and evaluation of reinforcement learning (RL) agents on text-based
             games.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
       </td>
     </tr>
   </tbody>
@@ -1200,24 +1215,24 @@ Environments are listed alphabetically.
     <td width='50%' align='center'>
     </td>
     <td width='50%'>
-        <a href='https://github.com/criteo-research/reco-gym'>Reco Gym</a> 
+        <a href='https://github.com/criteo-research/reco-gym'>Reco Gym</a>
         <ul>
           <li>
               Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
     </td>
   </tr>
   <tr>
     <td width='50%' align='center'>
     </td>
     <td width='50%'>
-        <a href='https://github.com/google-research/recsim'>RecSim</a> 
+        <a href='https://github.com/google-research/recsim'>RecSim</a>
         <ul>
           <li>
               A Configurable Recommender Systems Simulation Platform from Google.
-          </li> 
-        </ul> 
+          </li>
+        </ul>
     </td>
   </tr>
   </tbody>
