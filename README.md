@@ -1001,7 +1001,8 @@ Environments are listed alphabetically.
       <a href='https://github.com/bark-simulator/bark-ml'>BARK-ML</a>
       <ul>
         <li>
-          Open source environments and RL-agents for autonomous driving and behavior generation.
+          Open source environments and reinforcement learning agents
+          for autonomous driving and behavior generation.
         </li>
       </ul>
     </td>
