@@ -545,6 +545,22 @@ Environments are listed alphabetically.
         </ul>
       </td>
     </tr>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='media/pettingzoo.png' width=400 />
+      </td>
+      <td>
+        <a href='https://github.com/PettingZoo-Team/PettingZoo'>PettingZoo</a>
+        <ul>
+          <li>
+            It's akin to a multi-agent version of OpenAI's Gym library.
+          </li>
+          <li>
+            Includes Atari, Classic Games, Particle Environments and many more.
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
