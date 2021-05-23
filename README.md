@@ -995,6 +995,20 @@ Environments are listed alphabetically.
   </tr>
   <tr>
     <td width='50%' align='center'>
+      <img src='media/bark_ml.gif' width=300 />
+    </td>
+    <td width='50%'>
+      <a href='https://github.com/bark-simulator/bark-ml'>BARK-ML</a>
+      <ul>
+        <li>
+          Open source environments and reinforcement learning agents
+          for autonomous driving and behavior generation.
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center'>
       <img src='media/carla.gif' width=300 />
     </td>
     <td width='50%'>
