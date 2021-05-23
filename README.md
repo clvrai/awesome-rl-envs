@@ -931,6 +931,19 @@ Environments are listed alphabetically.
         </ul>
       </td>
     </tr>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='media/sumo-rl.png' width=300 />
+      </td>
+      <td>
+        <a href='https://github.com/LucasAlegre/sumo-rl'>SUMO-RL</a>
+        <ul>
+          <li>
+            Multi-agent traffic signal control using SUMO simulator.
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
