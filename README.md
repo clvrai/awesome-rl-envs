@@ -1278,6 +1278,19 @@ Environments are listed alphabetically.
         </ul>
     </td>
   </tr>
+  <tr>
+    <td width='50%' align='center'>
+            <img src='media/anm.png' width=300 />
+    </td>
+    <td width='50%'>
+        <a href='https://github.com/robinhenry/gym-anm'>Gym-ANM</a>
+        <ul>
+          <li>
+              Environments that model Active Network Management (ANM) tasks in electricity distribution networks. 
+          </li>
+        </ul>
+    </td>
+  </tr>
   </tbody>
 </table>
 
