@@ -581,6 +581,19 @@ Environments are listed alphabetically.
     </tr>
     <tr>
       <td width='50%' align='center'>
+        <img src='media/dmc-gb.jpeg' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/nicklashansen/dmcontrol-generalization-benchmark'>DMControl Generalization Benchmark</a>
+        <ul>
+          <li>
+            Generalization benchmark for continuous control tasks from DeepMind Control Suite. Includes hundreds of environments with randomized colors and dynamic video backgrounds of varying difficulty.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
         <img src='media/procgen.png' width=250 />
       </td>
       <td width='50%'>
