@@ -627,6 +627,26 @@ Environments are listed alphabetically.
         </ul>
       </td>
     </tr>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='media/crafter.gif' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/danijar/crafter'>Crafter</a>
+        <ul>
+          <li>
+            Open world survival game that evaluates many agent abilities within one environment.
+          </li>
+          <li>
+            Faster and easier than Minecraft but poses some of the same challenges.
+          </li>
+          <li>
+            Can be used to evaluate reward-based or unsupervised agents (e.g.
+            artificial curiosity).
+          </li>
+        </ul>
+      </td>
+    </tr>
 </table>
 
 ## Navigation
