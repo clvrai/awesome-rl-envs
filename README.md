@@ -948,6 +948,19 @@ Environments are listed alphabetically.
         </ul>
       </td>
     </tr>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='media/gym_pybullet_drones.gif' width=300 />
+      </td>
+      <td>
+        <a href='https://github.com/utiasDSL/gym-pybullet-drones'>Gym PyBullet Drones</a>
+        <ul>
+          <li>
+            PyBullet Gym environments for single and multi-agent reinforcement learning of quadcopter control.
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -1000,6 +1013,20 @@ Environments are listed alphabetically.
         <ul>
           <li>
             Tools for accelerating safe exploration research.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='media/safety_control_gym.png' width=500 />
+        <img src='media/safety_control_gym.gif' width=300 />
+      </td>
+      <td>
+        <a href='https://github.com/utiasDSL/safe-control-gym'>Safety Control Gym</a>
+        <ul>
+          <li>
+            PyBullet CartPole and Quadrotor environments with CasADi symbolic a priori dynamics for learning-based control and reinforcement learning.
           </li>
         </ul>
       </td>
