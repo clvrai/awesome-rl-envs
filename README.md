@@ -443,6 +443,23 @@ Environments are listed alphabetically.
     </tr>
     <tr>
       <td width='50%' align='center'>
+        <img src='media/robodesk.gif' width=300 />
+      </td>
+      <td width='50%'> <a href='https://github.com/google-research/robodesk'>RoboDesk</a>
+        <ul>
+          <li>
+            Multi-rask RL benchmark that comes with tasks from easy to hard,
+            with dense and sparse rewards.
+          </li>
+          <li>
+            Based on the Playroom desk env, with more robust physics settings
+            and controls that are suitable for RL.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
         <img src='media/rl-env.png' width=500 />
       </td>
       <td width='50%'>
