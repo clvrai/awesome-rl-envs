@@ -234,6 +234,24 @@ Environments are listed alphabetically.
       </ul>
       </td>
     </tr>
+    <tr>
+    <td width='50%' align='center'>
+      <img src='media/dexterous_gym.gif' width=300 />
+    </td>
+    <td width='50%'> <a href='https://github.com/henrycharlesworth/dexterous-gym'>Dexterous Gym</a>
+    <ul>
+      <li>
+        Extensions of the OpenAI Gym Dexterous Manipulation Environments.
+      </li>
+      <li>
+        Multiple environments requiring cooperation between two hands (handing objects over, throwing/catching objects).
+      </li>
+      <li>
+        "Pen Spin" Environment - train a hand to spin a pen between its fingers.
+      </li>
+    </ul>
+    </td>
+   </tr>
   </tbody>
 </table>
 
