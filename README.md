@@ -593,6 +593,22 @@ Environments are listed alphabetically.
         </ul>
       </td>
     </tr>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='media/pettingzoo.png' width=400 />
+      </td>
+      <td>
+        <a href='https://github.com/PettingZoo-Team/PettingZoo'>PettingZoo</a>
+        <ul>
+          <li>
+            It's akin to a multi-agent version of OpenAI's Gym library.
+          </li>
+          <li>
+            Includes Atari, Classic Games, Particle Environments and many more.
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -996,6 +1012,19 @@ Environments are listed alphabetically.
         </ul>
       </td>
     </tr>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='media/sumo-rl.png' width=300 />
+      </td>
+      <td>
+        <a href='https://github.com/LucasAlegre/sumo-rl'>SUMO-RL</a>
+        <ul>
+          <li>
+            Multi-agent traffic signal control using SUMO simulator.
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -1326,6 +1355,19 @@ Environments are listed alphabetically.
         <ul>
           <li>
               A Configurable Recommender Systems Simulation Platform from Google.
+          </li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%' align='center'>
+            <img src='media/anm.png' width=300 />
+    </td>
+    <td width='50%'>
+        <a href='https://github.com/robinhenry/gym-anm'>Gym-ANM</a>
+        <ul>
+          <li>
+              Environments that model Active Network Management (ANM) tasks in electricity distribution networks. 
           </li>
         </ul>
     </td>
