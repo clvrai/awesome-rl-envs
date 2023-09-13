@@ -92,6 +92,21 @@ Environments are listed alphabetically.
     </tr>
     <tr>
       <td width='50%' align='center'>
+        <img src='media/furniture_sim.gif' width=300 />
+      </td>
+      <td width='50%'> <a href='https://clvrai.com/furniture-bench'>FurnitureSim</a>
+        <ul>
+          <li>
+            Simulator for FurnitureBench, implemented using Factory and IsaacGym.
+          </li>
+          <li>
+            Provides 8 furniture models with diverse long-horizon complex interactions for furniture assembly, e.g., inserting, screwing.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
         <img src='media/mara_2.gif' width=300 />
       </td>
       <td width='50%'>
