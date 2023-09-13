@@ -681,7 +681,7 @@ Environments are listed alphabetically.
         <img src='media/animalai.gif' width=250 />
       </td>
       <td width='50%'>
-        <a href='https://github.com/beyretb/AnimalAI-Olympics'>Animal-AI Testbed</a>
+        <a href='https://github.com/Kinds-of-Intelligence-CFI/animal-ai'>Animal-AI Testbed</a>
         <ul>
           <li>
             900 tasks reflecting various cognitive skills of animals.
