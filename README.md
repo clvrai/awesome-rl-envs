@@ -171,7 +171,7 @@ Environments are listed alphabetically.
     </tr>
     <tr>
        <td width='50%' align='center'>
-        <img src='media/calvin.gif' width=300 />
+        <img src='media/calvin.gif' width=500 />
       </td>
       <td width='50%'> <a href='https://github.com/mees/calvin'>CALVIN</a>
         <ul>
@@ -490,7 +490,7 @@ Environments are listed alphabetically.
     <tr>
 <tr>
        <td width='50%' align='center'>
-        <img src='media/calvin.gif' width=300 />
+        <img src='media/calvin.gif' width=500 />
       </td>
       <td width='50%'> <a href='https://github.com/mees/calvin'>CALVIN</a>
         <ul>
