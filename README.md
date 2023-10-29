@@ -170,6 +170,21 @@ Environments are listed alphabetically.
       </td>
     </tr>
     <tr>
+       <td width='50%' align='center'>
+        <img src='media/calvin.gif' width=500 />
+      </td>
+      <td width='50%'> <a href='https://github.com/mees/calvin'>CALVIN</a>
+        <ul>
+          <li>
+            Complex long-horizon language conditioned manipulation benchmark with 1000 sequences of 5 instruction chains, data is human play data.
+          </li>
+          <li>
+            Provides a variety of train/test evaluation modes, flexible sensor suite, 4 environments and 34 diverse tasks.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td width='50%' align='center'>
         <img src='media/play_data_small.gif' width=300 />
       </td>
@@ -468,6 +483,22 @@ Environments are listed alphabetically.
         <ul>
           <li>
             Variety of Gym GoalEnvs that return the goal in the observation.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+<tr>
+       <td width='50%' align='center'>
+        <img src='media/calvin.gif' width=500 />
+      </td>
+      <td width='50%'> <a href='https://github.com/mees/calvin'>CALVIN</a>
+        <ul>
+          <li>
+            Complex long-horizon language conditioned manipulation benchmark with 1000 sequences of 5 instruction chains, data is human play data.
+          </li>
+          <li>
+            Provides a variety of train/test evaluation modes, flexible sensor suite, 4 environments and 34 diverse tasks.
           </li>
         </ul>
       </td>
