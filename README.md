@@ -830,6 +830,28 @@ Environments are listed alphabetically.
             </td>
           </tr>
       <tr>
+        <td width='50%' align='center'>
+          <img src='media/gym-simplegrid.gif' width=300 />
+        </td>
+        <td>
+          <a href='https://github.com/damat-le/gym-simplegrid'>gym-simplegrid</a>
+          <ul>
+            <li>
+              Simple and minimalistic grid environment.
+            </li>
+            <li>
+              Easy-to-understand code with few dependencies.
+            </li>
+            <li>
+              Easily modifable and extendable.
+            </li>
+            <li>
+              Recommended for beginners.
+            </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
       <td width='50%' align='center'>
         <img src='media/obstacle.png' width=300 />
       </td>
