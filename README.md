@@ -32,6 +32,19 @@ Environments are listed alphabetically.
 ## Robotics
 <table>
   <tbody>
+     <tr>
+      <td width='50%' align='center'>
+        <img src='https://robotics.farama.org/_images/pick_and_place.gif' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/Farama-Foundation/Gymnasium-Robotics'> Gymnasium-Robotics </a>
+        <ul>
+          <li> Library containing a collection of Reinforcement Learning robotic environments that use the Gymnasium API. The environments run with the MuJoCo physics engine and the maintained mujoco python bindings.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
     <tr>
       <td width='50%' align='center'>
         <img src='media/assistive_gym.jpg' width=600 />
