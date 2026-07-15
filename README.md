@@ -1362,6 +1362,27 @@ Environments are listed alphabetically.
       <td width='50%' align='center'>
       </td>
       <td width='50%'>
+        <a href='https://github.com/rasinmuhammed/misata'>Misata Evalpacks</a>
+        <ul>
+          <li>
+            Verified text-to-SQL / data-agent evaluation databases: the answer key is declared first and the multi-table database is generated to satisfy it exactly.
+          </li>
+          <li>
+            Every question's gold SQL is re-executed with DuckDB before shipping; anything inexact is dropped, never shipped.
+          </li>
+          <li>
+            Fully seeded: a new seed rotates the rows without touching the answer key, so environments regenerate per training run.
+          </li>
+          <li>
+            Declared identities for realistic worlds: exact aggregate curves, balanced double-entry ledgers, group shares, MRR waterfalls.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
+      </td>
+      <td width='50%'>
         <a href='https://github.com/microsoft/TextWorld'>TextWorld</a>
         <ul>
           <li>
