@@ -1425,6 +1425,7 @@ Environments are listed alphabetically.
 ## Physics Simulators
 
 * <a href='https://github.com/openai/mujoco-py'>Mujoco-py</a>
+* <a href='https://github.com/omnilink-tech/omnisim'>OmniSim</a> - Apache-2.0 robotics simulator with URDF import, agent-facing HTTP/MCP control, CPU/GPU Newton physics, and in-engine RL workflows.
 * <a href='https://pybullet.org/wordpress/'>PyBullet</a>
 * <a href='http://dartsim.github.io'>DART</a>
 * <a href='http://www.coppeliarobotics.com/'>V-REP</a>
