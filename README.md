@@ -290,6 +290,19 @@ Environments are listed alphabetically.
   <tbody>
     <tr>
       <td width='50%' align='center'>
+        <img src='https://raw.githubusercontent.com/IlyaKhalafi/AlphaDotsAndBoxes/main/docs/assets/gameplay.gif' alt='Alpha Dots and Boxes gameplay' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/IlyaKhalafi/AlphaDotsAndBoxes'>Alpha Dots &amp; Boxes</a>
+        <ul>
+          <li>
+            An RLlib multi-agent Dots and Boxes environment with variable board sizes, graph observations, and legal-action masks.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
         <img src='media/bomberland.gif' width=300 />
       </td>
       <td width='50%'>
@@ -311,6 +324,19 @@ Environments are listed alphabetically.
           <li>
              Training environment which provides a metric for an agent’s
              ability to transfer its experience to novel situations.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width='50%' align='center'>
+        <img src='https://raw.githubusercontent.com/IlyaKhalafi/DeepHokm/main/docs/media/demo.gif' alt='DeepHokm gameplay' width=300 />
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/IlyaKhalafi/DeepHokm'>DeepHokm</a>
+        <ul>
+          <li>
+            A Gymnasium environment for the partnership trick-taking card game Hokm, with configurable opponent policies and legal-action masks.
           </li>
         </ul>
       </td>
