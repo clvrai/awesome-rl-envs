@@ -1372,6 +1372,20 @@ Environments are listed alphabetically.
         </ul>
       </td>
     </tr>
+    <tr>
+      <td width='50%' align='center'>
+      </td>
+      <td width='50%'>
+        <a href='https://github.com/Lohitha0607/wsp-env'>Weight Doctor (wsp-env)</a>
+        <ul>
+          <li>
+            Environment where an LLM agent repairs a damaged neural network (a tiny
+            MLP or Qwen3-0.6B) by editing its weights directly, graded on held-out data.
+            Built with Verifiers; on the Prime Intellect Environments Hub.
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
